@@ -19,7 +19,7 @@ public class projectVO {
 	private int APPLYMEMBER;  
 	private int PASSMEMBER; 
 	private String T_PROJECT_TAG; 
-
+//asdas
  public projectVO() {
 	 System.out.println("sras");
  }
