@@ -6,20 +6,22 @@ import org.springframework.stereotype.Component;
 
 @Component("projectVO")
 public class projectVO {
-	private String MEMBER_ID;  
-	private String PROJECT_CODE; 
-	private String PROJECT_TITTLE; 
-	private String PROJECT_CONTENT; 
-	private String PROJECT_REGISTER_DAY; 
-	private String INVITE_STRDAY; 
-	private String INVITE_ENDDAY; 
-	private String PROJECT_STRDAY; 
- 	private String PROJECT_ENDDAY; 
-	private String TOTALMEMBER; 
-	private int APPLYMEMBER;  
-	private int PASSMEMBER; 
-	private String T_PROJECT_TAG; 
-//asdas
+	private String MEMBER_ID;  //회원아이디
+	private String PROJECT_CODE; //프로젝트코드
+	private String PROJECT_TITTLE; //프로젝트 제목
+	private String PROJECT_CONTENT; // 내용
+	private String PROJECT_REGISTER_DAY; //작성일
+	private String INVITE_STRDAY; // 모집 시작일
+	private String INVITE_ENDDAY; // 모집 종료일
+	private String PROJECT_STRDAY; // 프로젝트 시작일
+ 	private String PROJECT_ENDDAY; // 프로젝트 종료일
+	private String TOTALMEMBER; //총원
+	private int APPLYMEMBER; //지원자 수 
+	private int PASSMEMBER; //모집된 인원수
+	private String T_PROJECT_TAG; //프로젝트 테그
+
+
+
  public projectVO() {
 	 System.out.println("sras");
  }
