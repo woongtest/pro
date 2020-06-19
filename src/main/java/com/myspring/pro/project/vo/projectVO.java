@@ -19,7 +19,8 @@ public class projectVO {
 	private int APPLYMEMBER; //������ �� 
 	private int PASSMEMBER; //������ �ο���
 	private String T_PROJECT_TAG; //������Ʈ �ױ�
-	
+	//asasdasdas
+//asassa
 //adasd
 //asdsad
 //asdsadasd
