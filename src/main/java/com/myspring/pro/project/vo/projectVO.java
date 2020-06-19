@@ -6,20 +6,22 @@ import org.springframework.stereotype.Component;
 
 @Component("projectVO")
 public class projectVO {
-	private String MEMBER_ID;  //È¸¿ø¾ÆÀÌµð
-	private String PROJECT_CODE; //ÇÁ·ÎÁ§Æ®ÄÚµå
-	private String PROJECT_TITTLE; //ÇÁ·ÎÁ§Æ® Á¦¸ñ
-	private String PROJECT_CONTENT; // ³»¿ë
-	private String PROJECT_REGISTER_DAY; //ÀÛ¼ºÀÏ
-	private String INVITE_STRDAY; // ¸ðÁý ½ÃÀÛÀÏ
-	private String INVITE_ENDDAY; // ¸ðÁý Á¾·áÀÏ
-	private String PROJECT_STRDAY; // ÇÁ·ÎÁ§Æ® ½ÃÀÛÀÏ
- 	private String PROJECT_ENDDAY; // ÇÁ·ÎÁ§Æ® Á¾·áÀÏ
-	private String TOTALMEMBER; //ÃÑ¿ø
-	private int APPLYMEMBER; //Áö¿øÀÚ ¼ö 
-	private int PASSMEMBER; //¸ðÁýµÈ ÀÎ¿ø¼ö
-	private String T_PROJECT_TAG; //ÇÁ·ÎÁ§Æ® Å×±×
-
+	private String MEMBER_ID;  //È¸ï¿½ï¿½ï¿½ï¿½ï¿½Ìµï¿½
+	private String PROJECT_CODE; //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®ï¿½Úµï¿½
+	private String PROJECT_TITTLE; //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½
+	private String PROJECT_CONTENT; // ï¿½ï¿½ï¿½ï¿½
+	private String PROJECT_REGISTER_DAY; //ï¿½Û¼ï¿½ï¿½ï¿½
+	private String INVITE_STRDAY; // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	private String INVITE_ENDDAY; // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	private String PROJECT_STRDAY; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ 	private String PROJECT_ENDDAY; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	private String TOTALMEMBER; //ï¿½Ñ¿ï¿½
+	private int APPLYMEMBER; //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ 
+	private int PASSMEMBER; //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Î¿ï¿½ï¿½ï¿½
+	private String T_PROJECT_TAG; //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½×±ï¿½
+	
+//adasd
+//asdsad
 //asdsadasd
 //gpgpgpgpgpgpggp
  public projectVO() {
