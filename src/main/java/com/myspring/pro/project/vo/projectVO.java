@@ -20,7 +20,7 @@ public class projectVO {
 	private int PASSMEMBER; //모집된 인원수
 	private String T_PROJECT_TAG; //프로젝트 테그
 
-
+//asdsadasd
 //gpgpgpgpgpgpggp
  public projectVO() {
 	 System.out.println("sras");
