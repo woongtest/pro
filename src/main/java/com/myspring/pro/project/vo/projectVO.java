@@ -6,25 +6,20 @@ import org.springframework.stereotype.Component;
 
 @Component("projectVO")
 public class projectVO {
-	private String MEMBER_ID;  //ȸ�����̵�
-	private String PROJECT_CODE; //������Ʈ�ڵ�
-	private String PROJECT_TITTLE; //������Ʈ ����
-	private String PROJECT_CONTENT; // ����
-	private String PROJECT_REGISTER_DAY; //�ۼ���
-	private String INVITE_STRDAY; // ���� ������
-	private String INVITE_ENDDAY; // ���� ������
-	private String PROJECT_STRDAY; // ������Ʈ ������
- 	private String PROJECT_ENDDAY; // ������Ʈ ������
-	private String TOTALMEMBER; //�ѿ�
-	private int APPLYMEMBER; //������ �� 
-	private int PASSMEMBER; //������ �ο���
-	private String T_PROJECT_TAG; //������Ʈ �ױ�
-	//asasdasdas
-//asassa
-//adasd
-//asdsad
-//asdsadasd
-//gpgpgpgpgpgpggp
+	private String MEMBER_ID;  
+	private String PROJECT_CODE; 
+	private String PROJECT_TITTLE; 
+	private String PROJECT_CONTENT; 
+	private String PROJECT_REGISTER_DAY; 
+	private String INVITE_STRDAY; 
+	private String INVITE_ENDDAY; 
+	private String PROJECT_STRDAY; 
+ 	private String PROJECT_ENDDAY; 
+	private String TOTALMEMBER; 
+	private int APPLYMEMBER;  
+	private int PASSMEMBER; 
+	private String T_PROJECT_TAG; 
+
  public projectVO() {
 	 System.out.println("sras");
  }
