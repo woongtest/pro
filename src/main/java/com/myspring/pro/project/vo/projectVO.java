@@ -19,7 +19,7 @@ public class projectVO {
 	private int APPLYMEMBER; //지원자 수 
 	private int PASSMEMBER; //모집된 인원수
 	private String T_PROJECT_TAG; //프로젝트 테그
-
+//헤헤헤헤헤
 //asdsadasd
 //gpgpgpgpgpgpggp
  public projectVO() {
